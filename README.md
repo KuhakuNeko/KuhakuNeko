@@ -3,6 +3,7 @@
 <!--
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 -->
+
 Im KuhakuNeko, i can make music, program, and draw.
 
 I made my first video game when i was 14, and endless runner called "Unity-Chan Endless Runner", were most of the assets (music/graphics/code) were made by me.
@@ -10,6 +11,7 @@ Since then i started working on other side projects but are still on the making 
 As i was growing AI took my inrest and im working on this too.
 
 The reason behind all my works is to help other people through technology.
+
 <!--
 **KuhakuNeko/KuhakuNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -29,4 +31,6 @@ The reason behind all my works is to help other people through technology.
 [![HitCount](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko.svg)](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko)
 -->
 
-#### #ProgrammingEmotions #MusicalProgramming #ComputersForHumanity
+[![Header](https://www.osustuff.org/img/imageslice/2020-10-07/130273/714657.jpg "Header")](https://some-url.dev/)
+
+#### _#ProgrammingEmotions #MusicalProgramming #ComputersForHumanity_
