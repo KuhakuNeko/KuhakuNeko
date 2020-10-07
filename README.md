@@ -23,3 +23,5 @@
 <!--
 [![HitCount](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko.svg)](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko)
 -->
+
+#### #ProgrammingEmotions #MusicalProgramming #ComputersForHumanity
