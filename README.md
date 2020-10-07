@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+-->
 
 <!--
 **KuhakuNeko/KuhakuNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
