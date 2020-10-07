@@ -14,7 +14,7 @@ The reason behind all my works is to help other people through technology.
 **KuhakuNeko/KuhakuNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working... on a future AI that will support people emotionally. My side projects are Video Games. Always connecting Music & Programming.
+- 🔭 I’m currently working... on a future AI that will support people. My side projects are Video Games. Always connecting Music & Programming.
 - 🌱 I’m currently studying... IT at Ionian University. But until now communities online are more helpfull.
 - 👯 I’m looking to collaborate... on an AI project, Video Games, and anything Music related. I enjoy almost everything when working with passionate people!
 - 🤔 I’m looking for help with... hardcoding AI into windows OS and embed other codes into the AI.
