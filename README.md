@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko.svg)](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko)
-
 ### Hi there 👋
 
 
@@ -17,5 +15,3 @@
 - 😄 Pronouns: Shiro, Yozora, Kuhaku, Neko
 
 - ⚡ Fun fact: Music and Programming have SO much in common.
-
-
