@@ -5,7 +5,7 @@
 -->
 Im KuhakuNeko, i can make music program and draw.
 
-i made my first video game when i was 14, and endless runner called "Unity-Chan Endless Runner", were almost all the assets (music/graphics/code) were made by me.
+i made my first video game when i was 14, and endless runner called "Unity-Chan Endless Runner", where almost all the assets (music/graphics/code) were made by me.
 Since then i started working on other side projects but are still on the making since i need to learn more.
 As i was growing AI took my inrest and im working on this too.
 
