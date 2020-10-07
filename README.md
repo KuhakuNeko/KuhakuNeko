@@ -29,8 +29,9 @@ The reason behind all my works is to help other people through technology.
 
 <!--
 [![HitCount](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko.svg)](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko)
+<img src="https://www.osustuff.org/img/imageslice/2020-10-07/130273/714657.jpg" width="600px">
 -->
 
 [![Header](https://www.osustuff.org/img/imageslice/2020-10-07/130273/714657.jpg "Header")](https://some-url.dev/)
 
-####   #ProgrammingEmotions #MusicalProgramming #ComputersForHumanity
+####     #ProgrammingEmotions #MusicalProgramming #ComputersForHumanity
