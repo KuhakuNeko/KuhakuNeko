@@ -33,4 +33,4 @@ The reason behind all my works is to help other people through technology.
 
 [![Header](https://www.osustuff.org/img/imageslice/2020-10-07/130273/714657.jpg "Header")](https://some-url.dev/)
 
-#### _#ProgrammingEmotions #MusicalProgramming #ComputersForHumanity_
+####   #ProgrammingEmotions #MusicalProgramming #ComputersForHumanity
