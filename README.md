@@ -23,5 +23,8 @@
 <!--
 [![HitCount](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko.svg)](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko)
 -->
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
 
 #### #ProgrammingEmotions #MusicalProgramming #ComputersForHumanity
