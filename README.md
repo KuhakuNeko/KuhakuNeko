@@ -23,7 +23,7 @@ The reason behind all my works is to help other people through technology.
 - 💬 Ask me about C++/C#/Vocaloid/Music/Video Game Developing
 
 - 📫 How to reach me: Message me here on GitHub or my Academic Email which is p19kost2@ionio.gr
-- 😄 Pronouns: Shiro, Yozora, Kuhaku, Neko
+- 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: Music and Programming have SO much in common.
 
