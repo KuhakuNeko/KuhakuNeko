@@ -1,4 +1,7 @@
+[![HitCount](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko.svg)](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko)
+
 ### Hi there 👋
+
 
 <!--
 **KuhakuNeko/KuhakuNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@
 - 😄 Pronouns: Shiro, Yozora, Kuhaku, Neko
 
 - ⚡ Fun fact: Music and Programming have SO much in common.
+
+
