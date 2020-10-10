@@ -31,7 +31,9 @@ The reason behind all my works is to help other people through technology.
 [![HitCount](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko.svg)](http://hits.dwyl.com/KuhakuNeko/KuhakuNeko)
 <img src="https://www.osustuff.org/img/imageslice/2020-10-07/130273/714657.jpg" width="600px">
 -->
-
+  
 [![Header](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10e6ad3f-a0ed-4674-a8cb-3326de75f11f/de6mhw8-cec346da-63ac-4bb8-a964-73e625342596.png/v1/fill/w_1280,h_427,q_80,strp/githubbanner_by_yozoraneko_de6mhw8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00MjciLCJwYXRoIjoiXC9mXC8xMGU2YWQzZi1hMGVkLTQ2NzQtYThjYi0zMzI2ZGU3NWYxMWZcL2RlNm1odzgtY2VjMzQ2ZGEtNjNhYy00YmI4LWE5NjQtNzNlNjI1MzQyNTk2LnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.q9SG4LA8bwMSHVfeCwSxVnw9EHby2Mc_kLY3D96u7kQ "Header")]()
 
-####     #ProgrammingEmotions #MusicalProgramming #ComputersForHumanity
+<p align="center">
+<b>#ProgrammingEmotions #MusicalProgramming #ComputersForHumanity</b>
+</p>
