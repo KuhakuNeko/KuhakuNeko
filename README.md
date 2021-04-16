@@ -4,11 +4,10 @@
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 -->
 
-Im KuhakuNeko, i can make music, program, and draw.
+Hi, im KuhakuNeko, i can make music, program, and draw.
 
-I made my first video game when i was 14, an endless runner called "Unity-Chan Endless Runner", were most of the assets (music/graphics/code) were made by me.
-Since then i started working on other side projects but are still on the making since i need to learn more so they can be perfect till they meet the outside world.
-As i was growing, i took intrest to AI and now im working on this too.
+I made my first video game when i was 14, an endless runner called "Unity-Chan Endless Runner", most of the assets (music/graphics/code) were made by me.
+Since then i started working on other side projects but they are still on the making since i need to learn more in order for them to be perfect till they meet the outside world. As i was growing, i took intrest to AI and now im working on this subject too.
 
 The reason behind all my works is to help other people through technology.
 
