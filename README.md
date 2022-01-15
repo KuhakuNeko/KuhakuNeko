@@ -7,7 +7,7 @@
 Hi, im KuhakuNeko, i can make music, program, and draw.
 
 I made my first video game when i was 14, most of the assets (music/graphics/code) were made by me.
-Since then i started working on other side projects but they are still on the making since i need to learn more in order for them to be perfect till they meet the outside world. As i was growing, i took intrest to AI and now im working on this subject too.
+Since then i started working on other side projects but they are still on the making since i need to learn more in order for them to be perfect till they meet the outside world. As i was growing, i took interest to AI and now im working on this subject too.
 
 The reason behind all my works is to help other people through technology.
 
